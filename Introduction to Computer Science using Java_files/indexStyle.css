@@ -1,0 +1,55 @@
+body
+{
+background-color:#f3f8f0;
+font-family:arial,sans-serif; 
+}
+
+h1
+{
+color: #f25239;                
+text-align:center;
+font-size:2.5em;
+}
+
+h2
+{
+color: black;                
+text-align:left;
+font-size:1.5em;
+}
+
+h3
+{
+color: black;                
+text-align:center;
+font-size:1em;
+}
+
+.left
+{
+max-width:48%;
+float:left;
+}
+
+.right
+{
+max-width:48%;
+float:right;
+}
+
+p
+{
+margin-left: 2em;
+margin-right: 2em;
+}
+
+table
+{
+margin-left: 5em;
+margin-right: 5em;
+}
+
+a:link     { color:blue }
+a:visited  { color:saddlebrown }
+a:active   { color:red }
+a:hover    { color:red }
